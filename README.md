@@ -1,1 +1,1 @@
-# 341-web-design-Fall2020-resources
+# 341-web-design
