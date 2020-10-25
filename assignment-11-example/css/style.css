@@ -3,13 +3,11 @@
 div{
     text-align: left;
     line-height: 1.45em;
-    font-family: Arima-Madurai, sans-serif;
-    margin-bottom: 10px;
-    padding: 5px;
+    font-family: Merriweather, sans-serif
 }
 h1, h3, h5{
     text-align: center;
-    font-family: Arima-Madurai, sans-serif;
+    font-family: FiraSans, sans-serif;
     
 }
 .opening-paragraph{
@@ -25,12 +23,12 @@ h1, h3, h5{
 
 #book_info{
     text-decoration: none;
-    font-family: Arima-Madurai, sans-serif;
+    font-family: Merriweather, sans-serif;
     
 
 }
 #book_info:hover{
-    font-family:  Arima-Madurai, sans-serif;
+    font-family:  Merriweather, sans-serif;
 
     text-decoration: underline;
     font-weight: bold;
@@ -39,9 +37,9 @@ h1, h3, h5{
 
 table{
     border: 1px solid black;
-    font-family:  Arima-Madurai, sans-serif;
+    font-family:  FiraSans, sans-serif;
     font-weight: bold;
 }
 p{
-    font-family:  Arima-Madurai, sans-serif;
+    font-family:  Merriweather, sans-serif;
 }

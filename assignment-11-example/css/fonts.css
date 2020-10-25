@@ -1,14 +1,24 @@
 /* This is the file, "fonts.css." */
 @font-face {
-    font-family: 'Arima-Madurai';
-    src: url('../fonts/ArimaMadurai-Regular.ttf') format('opentype');
-    font-weight: 100;
+    font-family: 'FiraSans';
+    src: url('../fonts/FiraSans-Regular.ttf') format('opentype');
     font-style: normal;
  }
  @font-face {
-    font-family: 'Arima-Madurai';
-    src: url('../fonts/ArimaMadurai-Bold.ttf') format('opentype');
-    font-weight: 900;
+    font-family: 'FiraSans';
+    src: url('../fonts/FiraSans-Bold.ttf') format('opentype');
+    font-weight: 700;
     font-style: bold;
  }
  
+ @font-face {
+   font-family: 'Merriweather';
+   src: url('../fonts/Merriweather-Regular.ttf') format('opentype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Merriweather';
+   src: url('../fonts/Merriweather-Bold.ttf') format('opentype');
+   font-weight: 700;
+   font-style: bold;
+}
