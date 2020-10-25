@@ -1,0 +1,14 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'Arima-Madurai';
+    src: url('../fonts/ArimaMadurai-Regular.ttf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Arima-Madurai';
+    src: url('../fonts/ArimaMadurai-Bold.ttf') format('opentype');
+    font-weight: 900;
+    font-style: bold;
+ }
+ 
