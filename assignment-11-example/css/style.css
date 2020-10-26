@@ -18,7 +18,7 @@ h1, h3, h5{
 }
 
 .opening-paragraph::first-line{
-    font-size: 30;
+    font-size: 30px;
 }
 .second-paragraph{
     font-size: 16px;
@@ -39,6 +39,7 @@ table{
     font-family:  FiraSans, sans-serif;
     font-weight: 700;
 }
+
 p{
     font-family:  Merriweather, sans-serif;
 }
