@@ -8,7 +8,6 @@
     font-family: 'FiraSans';
     src: url('../fonts/FiraSans-Bold.ttf') format('opentype');
     font-weight: 700;
-    font-style: bold;
  }
  
  @font-face {
@@ -20,5 +19,4 @@
    font-family: 'Merriweather';
    src: url('../fonts/Merriweather-Bold.ttf') format('opentype');
    font-weight: 700;
-   font-style: bold;
 }
