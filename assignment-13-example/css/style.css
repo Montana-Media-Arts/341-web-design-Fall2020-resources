@@ -148,7 +148,7 @@ header {
     content:url("../images/road3-small.jpg");
 }
 
-/* For width 400px and larger: */
+/* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .thirdimage{
         margin: auto;
@@ -161,7 +161,7 @@ header {
     content:url("../images/road4-small.jpg");
 }
 
-/* For width 400px and larger: */
+/* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fourthimage{
         margin: auto;
@@ -174,7 +174,7 @@ header {
     content:url("../images/road2-small.jpg");
 }
 
-/* For width 400px and larger: */
+/* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fifthimage{
         margin: auto;
