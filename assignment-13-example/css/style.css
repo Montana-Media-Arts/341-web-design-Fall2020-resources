@@ -123,7 +123,7 @@ header {
 
 }
 
-/* For width 400px and larger: */
+/* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .mainimage{
         content:url("../images/road1.jpg");
@@ -135,7 +135,7 @@ header {
     content:url("../images/road2-small.jpg");
 }
 
-/* For width 400px and larger: */
+/* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .secondimage{
         float:right;
